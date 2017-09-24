@@ -1,1 +1,1 @@
-pull borgewarvik/php:7.1
+docker pull borgewarvik/php:7.1
